@@ -24,7 +24,7 @@ For detailed information, please refer to the documentation available in Italian
 To get started with this project, follow the instructions below.
 
 ### Prerequisites
-- Python 3.8+ #python
+- Python 3.8+ 
 - MongoDB
 - Selenium
 - Streamlit
