@@ -1,4 +1,4 @@
-# 📚 Big Data Exam Federico II  2023/2024
+# 📚 Big Data Exam Federico II  2024/2025
 ![LLM Mixtral](https://img.shields.io/badge/LLM-Mixtral-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-4.4%2B-green)  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.1.1-brightgreen) ![Hive](https://img.shields.io/badge/Hive-2.3.7-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-yellow) ![Selenium](https://img.shields.io/badge/Selenium-4.0.0-orange) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
 
 ## Homeworks
